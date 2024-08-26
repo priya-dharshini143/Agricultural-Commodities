@@ -1,1 +1,2 @@
 # Agricultural-Commodities
+This project focuses on predicting the modal price of agricultural commodities using a linear regression model. By analyzing historical data, the model identifies trends and key factors influencing prices, allowing for accurate price predictions. The project achieved a high R² score of 90%, indicating strong predictive accuracy. This can help farmers, traders, and policymakers make informed decisions regarding market strategies and price stabilization, ultimately contributing to the agricultural sector's sustainability and profitability.
